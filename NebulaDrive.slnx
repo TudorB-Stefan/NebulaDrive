@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="compose.yaml" />
+  </Folder>
+  <Project Path="NebulaDrive.Api/NebulaDrive.Api.csproj" />
+  <Project Path="NebulaDrive.Application/NebulaDrive.Application.csproj" />
+  <Project Path="NebulaDrive.Domain/NebulaDrive.Domain.csproj" />
+  <Project Path="NebulaDrive.Infrastructure/NebulaDrive.Infrastructure.csproj" />
+</Solution>
